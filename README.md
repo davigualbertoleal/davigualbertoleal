@@ -5,9 +5,9 @@ Eu sou Davi. Um desenvolvedor em formação focado em analise e desenvolvimento 
 
 ### Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davigualbertoleal&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-one.vercel.app/api?username=davigualbertoleal&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davigualbertoleal&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-one.vercel.app/api/top-langs/?username=davigualbertoleal&layout=compact&theme=dark)
 
 ---
 
